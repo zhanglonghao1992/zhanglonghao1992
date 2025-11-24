@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at ~~ByteDance~~ Ant Group.
+- 🔭 I’m currently working at ~~Damo Academy~~｜~~ByteDance~~｜Ant Group.
 - 👯 I’m looking to collaborate on X2V.
 - 📫 How to reach me: longhao.zlh@antgroup.com
 
